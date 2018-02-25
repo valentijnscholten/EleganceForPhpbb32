@@ -3776,7 +3776,7 @@ input.button1:focus, input.button2:focus, input.button3:focus {
   .headerbar .search-header {
     display: block;
     position: absolute;
-    top: 50%;
+    top: 45%;
     right: 5px;
     margin-top: -13px; }
 
